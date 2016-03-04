@@ -285,6 +285,12 @@ button.blue-btn:hover {
 		font-weight:400;
 		font-size:22px;
 	}
+	#value {
+	background:url(../images/girl-laptop-hero-image.jpg) no-repeat center center;
+	background-size:cover;
+	margin:0 auto;
+	height:550px;
+}
 }
 /* -- Value End -- */
 /* -- Services Start -- */
