@@ -178,7 +178,7 @@ span.glyphicon:hover {
 }
 
 #hero-text h1, #about-hero-text h1{
-	font-size:28px;
+	font-size:36px;
 	text-transform:uppercase;
 	color:#f17046;
 	margin-top:0;
@@ -188,7 +188,7 @@ span.glyphicon:hover {
 #hero-text p {
 	max-width:600px;
 	margin:15px auto;
-	font-size:24px;
+	font-size:22px;
 	color:#606771;
 }
 
