@@ -543,6 +543,10 @@ margin-top: 20%;
 .inner-content figure{
 margin-top: 5%;
 }
+
+.inner-content figure:first-child,.inner-content figure:first-child{
+	margin-bottom: 5%;	
+} 
 .inner-content figcaption{
 	font-size: 8px !important;
 	color:#f17046;
